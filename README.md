@@ -1,4 +1,7 @@
 ## This is a simple PLCC breakout board for A1200 U13 (CLOCK, DATA, RESET, 5V, NC, GND).
+
+![3D render from KiCAD](resources/amiga-1200-keyboard-adapter.png)
+
 ### Compatible with:
 - A500 keyboard connector
 - AmigaHID Pico
