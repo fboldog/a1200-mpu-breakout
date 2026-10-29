@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Amiga_Sockets") (type "KiCad") (uri "components/Amiga_Sockets.pretty") (options "") (descr ""))
+)
